@@ -11,6 +11,7 @@ namespace PAD2d140319SJ
         static void Main(string[] args)
         {
             Console.WriteLine("Projeto PAD Github");
+            Console.WriteLine("Testando GitHub");
         }
     }
 }
